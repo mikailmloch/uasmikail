@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAovD4mvhxa9PlyKHWs1Pn5cutsZw_GFX4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499279572214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.uasmikail.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>mikail-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mikail-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499279572214:ios:e1b3edfe492a26602d10d7</string>
+</dict>
+</plist>

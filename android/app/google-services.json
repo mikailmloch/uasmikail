@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499279572214",
+    "project_id": "mikail-firebase",
+    "storage_bucket": "mikail-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499279572214:android:16469be9188167982d10d7",
+        "android_client_info": {
+          "package_name": "com.example.uasmikail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzk-jY3iOhWxxJj2mef3dtbAsoZQN38YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
